@@ -1,6 +1,6 @@
 - 👋 Hi, I’m João I'm a student passionate about technology and development.
 
-💻 **Programming:** I love JavaScript and mobile development.  
+💻 **Programming:** I love Java and mobile development.  
 🎮 **Games:** Passionate about gaming and everything related to it.  
 🎹 **Music:** I play the keyboard/piano in my free time.  
 🎨 **Art:** I enjoy drawing as a hobby.  
