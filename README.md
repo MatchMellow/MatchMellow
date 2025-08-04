@@ -18,7 +18,7 @@ Olá eu sou joão 😊
 
 ## 🧪 Projetos em Destaque
 
-### 🚌 [Circular_UFRPE_ES](https://github.com/MatchMell0w/Circular_UFRPE_ES)  
+### 🚌 [Circular_UFRPE_ES](https://github.com/MatchMellow/Circular_UFRPE_ES)  
 App Android em Kotlin com Firebase para rastreamento de ônibus da UFRPE
 
 ### 💼 [FundoRotativo](https://github.com/MatchMell0w/FundoRotativo)  
