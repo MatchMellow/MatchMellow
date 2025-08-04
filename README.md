@@ -1,16 +1,28 @@
-- 👋 Hi, I’m João I'm a student passionate about technology and development.
+Olá eu sou joão 😊
+🎓 Estudante de Ciência da Computação na UFRPE  
+📍 25 anos • Recife – PE  
+💻 Dev Júnior | Backend, Mobile, Desktop  
+🎯 Em busca de oportunidades para crescer como desenvolvedor e contribuir com projetos reais  
 
-💻 **Programming:** I love Java and mobile development.  
-🎮 **Games:** Passionate about gaming and everything related to it.  
-🎹 **Music:** I play the keyboard/piano in my free time.  
-🎨 **Art:** I enjoy drawing as a hobby.  
-🛠️ **Hardware:** I like building and optimizing computers.  
-📚 **Studies:** Currently studying at UFRPE, always eager to learn more.  
-🚀 **Goal:** Create amazing projects and contribute to the dev community.  
+---
 
-✨ Always looking for new challenges and learning opportunities! ✨
+## 💼 Habilidades Técnicas
 
-<!---
-MatchMellow/MatchMellow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Linguagens**: Java, Kotlin, SQL, R  
+- **Frameworks/Stacks**: JavaFX, Android, Firebase  
+- **Banco de Dados**: MySQL, SQLite  
+- **Ferramentas**: Git, GitHub, Excel Avançado (Dashboards)  
+- **Outros**: Suporte Técnico, Montagem de PCs, Redes, Videocolaboração
+
+---
+
+## 🧪 Projetos em Destaque
+
+### 🚌 [Circular_UFRPE_ES](https://github.com/MatchMell0w/Circular_UFRPE_ES)  
+App Android em Kotlin com Firebase para rastreamento de ônibus da UFRPE
+
+### 💼 [FundoRotativo](https://github.com/MatchMell0w/FundoRotativo)  
+Sistema desktop de empréstimos solidários usando JavaFX e banco de dados SQL
+
+### 📊 [redecrechemapa](https://github.com/MatchMell0w/redecrechemapa)  
+Visualização de dados públicos com R + Shiny para educação infantil
