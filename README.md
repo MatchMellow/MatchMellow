@@ -1,8 +1,9 @@
-Olá eu sou joão 😊
+ João 😊
+ Analista de Desenvolvimento Jr  
 🎓 Estudante de Ciência da Computação na UFRPE  
 📍 25 anos • Recife – PE  
 💻 Dev Júnior | Backend, Mobile, Desktop  
-🎯 Em busca de oportunidades para crescer como desenvolvedor e contribuir com projetos reais  
+   
 
 ## 💼 Habilidades Técnicas
 
