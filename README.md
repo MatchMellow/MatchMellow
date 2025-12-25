@@ -11,4 +11,4 @@
 - **Frameworks/Stacks**: JavaFX, Android, Firebase  
 - **Banco de Dados**: MySQL, SQLite  
 - **Ferramentas**: Git, GitHub, Excel Avançado (Dashboards)  
-- **Outros**: Suporte Técnico, Montagem de PCs, Redes, Videocolaboração
+- **Outros**: Montagem de PCs, Redes, Videocolaboração
